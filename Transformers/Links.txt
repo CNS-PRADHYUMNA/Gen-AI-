@@ -1,0 +1,2 @@
+https://jalammar.github.io/illustrated-transformer/
+https://medium.com/@lmpo/understanding-self-attention-and-transformer-network-architecture-0734f73b8fa3
